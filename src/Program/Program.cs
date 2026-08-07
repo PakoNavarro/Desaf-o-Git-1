@@ -5,6 +5,7 @@
        return a - b;
    }
 }
+<<<<<<< Updated upstream
 public class Multiplication
 {
    public static int Multiply(int a, int b)
@@ -13,3 +14,6 @@ public class Multiplication
    }
 }
 
+=======
+hola
+>>>>>>> Stashed changes
