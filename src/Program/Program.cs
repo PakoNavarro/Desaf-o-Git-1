@@ -10,7 +10,7 @@ public static class Program
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-// Esta clase implementa la operación <nombre-operación>
+
 public class Division
 {
     public static double Divide(int a, int b)
